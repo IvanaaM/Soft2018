@@ -1,0 +1,12 @@
+RA 69/2015 Ivana Marin
+file	sum
+video-0.avi	10
+video-1.avi	61
+video-2.avi	61
+video-3.avi	85
+video-4.avi	37
+video-5.avi	52
+video-6.avi	48
+video-7.avi	47
+video-8.avi	69
+video-9.avi	67
